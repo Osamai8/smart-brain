@@ -1,0 +1,27 @@
+.form{
+    display: flex;
+    margin: 1rem;
+    width: 100%;
+    max-width:45rem;
+    padding:2rem;
+    border-radius: 2px;
+    box-shadow: 0px 5px 30px rgb(0,0,0);
+}
+input{
+    width:70%;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+p{
+   text-align: center;
+   margin:0.2rem 0rem;
+}
+button{
+    text-align: center;
+    padding:0.3rem 1rem;
+    border: none;
+    cursor: pointer;
+    width:30%;
+}
