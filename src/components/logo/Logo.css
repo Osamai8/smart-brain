@@ -1,7 +1,7 @@
 .tilt{
     background: linear-gradient(90deg, rgba(71,114,147,1) 0%, rgba(149,244,210,1) 100%);
 }
-img{
+#brain{
     padding:1.5rem;
     max-width:auto;
     height:6rem;
