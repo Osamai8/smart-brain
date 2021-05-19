@@ -3,4 +3,6 @@
 }
 img{
     padding:1.5rem;
+    max-width:auto;
+    height:6rem;
 }
