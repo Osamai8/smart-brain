@@ -29,7 +29,7 @@ const SignIn = ({ onRouteChange, loadUser }) => {
 
     }
     return (
-        <article className="br2 ba b--black-10 mv4 w-100 w-50-m w-25-l mw6 shadow-3 center">
+        <article className="br2 ba b--black-10 mv4 w-80 w-50-m w-35-l mw6 shadow-3 center pa4-l">
             <main className="pa4 black-80">
                 <form className="measure ">
                     <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
@@ -62,5 +62,6 @@ const SignIn = ({ onRouteChange, loadUser }) => {
         </article>
     )
 }
+
 
 export default SignIn;

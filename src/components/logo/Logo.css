@@ -1,5 +1,9 @@
 .tilt{
     background: linear-gradient(90deg, rgba(71,114,147,1) 0%, rgba(149,244,210,1) 100%);
+    @media (max-width:700px){
+        height:100px;
+        width:100px;
+    }
 }
 #brain{
     padding:1.5rem;
